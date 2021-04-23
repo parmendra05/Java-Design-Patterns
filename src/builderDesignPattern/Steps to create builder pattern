@@ -1,0 +1,17 @@
+class phone{
+       provide desird fields as variable
+1.>    provide contructor all field
+2.>    toString
+
+}
+
+class shop{ //main method
+Before factory-  phone p=new phone(....);  SOP (p)
+After factory-Phone p=new PhoneBuilder.setPrice().getPhone();  SOP(p)
+}
+
+create phoneBuilder{
+1.>  provide all variable of phone class
+2.>  getter method returnType=ClassType  ,return this.
+3.>  getPhone method returnType phone ,return phone All args contructor(...);
+}
