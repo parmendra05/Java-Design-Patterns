@@ -3,7 +3,8 @@
 ## Java Design Patterns are divided into three categories – 
 1. Creational design patterns.
 2. Structural design patterns. 
-3 .Behavioral design patterns. 
+3. Behavioral design patterns.
+ 
 **Total 23 design patterns are available.**
 ------------------------------------------------------------------------------------------------
 ### Creational Design Patterns
