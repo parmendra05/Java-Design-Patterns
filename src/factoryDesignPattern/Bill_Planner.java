@@ -1,4 +1,4 @@
-package FactoryDesignPattern;
+package factoryDesignPattern;
 
 //#########   Step -1  #######
 public abstract class Bill_Planner {

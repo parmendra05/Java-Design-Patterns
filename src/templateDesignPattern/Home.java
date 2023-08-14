@@ -1,4 +1,4 @@
-package TemplateDesignPattern;
+package templateDesignPattern;
 
 public class Home extends HouseTemplate {
 

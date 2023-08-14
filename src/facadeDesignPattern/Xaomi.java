@@ -1,4 +1,4 @@
-package FacadeDesignPattern;
+package facadeDesignPattern;
 
 public class Xaomi implements MobileShop {
 
@@ -10,7 +10,7 @@ public class Xaomi implements MobileShop {
 
 	@Override
 	public void price() {
-		System.out.println("Rs. "+14000);
+		System.out.println("Rs. " + 14000);
 
 	}
 

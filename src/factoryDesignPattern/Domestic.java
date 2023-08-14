@@ -1,4 +1,4 @@
-package FactoryDesignPattern;
+package factoryDesignPattern;
 
 //#########   Step -2  #######
 public class Domestic extends Bill_Planner {

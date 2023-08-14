@@ -1,16 +1,16 @@
-package FacadeDesignPattern;
+package facadeDesignPattern;
 
 public class Oppo implements MobileShop {
 
 	@Override
 	public void mobileName() {
-		System.out.print("Oppo A51  :" );
+		System.out.print("Oppo A53s 5G  :");
 
 	}
 
 	@Override
 	public void price() {
-		System.out.println("Rs. "+15000);
+		System.out.println("Rs. " + 18000);
 
 	}
 

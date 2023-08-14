@@ -1,4 +1,4 @@
-package FacadeDesignPattern;
+package facadeDesignPattern;
 
 public interface MobileShop {
 

@@ -1,4 +1,4 @@
-package ProxyDesignPattern;
+package proxyDesignPattern;
 
 public class ProxyInternate implements OfficeInternate {
 

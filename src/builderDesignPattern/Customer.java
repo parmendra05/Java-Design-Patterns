@@ -13,7 +13,7 @@ public class Customer {
 		
 		//##############     with builder factory design pattern    ###############
 		
-		Phone ph=new PhoneBuilder().setBattery(6000).setPrice(9999).getPhone();
+		Phone ph=new PhoneBuilder().setBattery(5000).setPrice(9999).builder();
 		
 		System.out.println(ph);
 		

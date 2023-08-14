@@ -1,4 +1,4 @@
-package AdopterDesignPattern;
+package adopterDesignPattern;
 
 public interface BikeMillege {
 
