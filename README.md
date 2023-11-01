@@ -58,7 +58,7 @@ Facade Pattern is used to help client applications to easily interact with the s
 
 ### Behavioral Design Patterns
 Behavioral patterns provide solution for the better interaction between objects and 
-how to provide lose coupling and flexibility to extend easily.
+how to provide loose coupling and flexibility to extend easily.
 
 - <b>Template method</b> defines the steps to execute an algorithm and it can provide default implementation 
 that might be common for all or some of the subclasses.
